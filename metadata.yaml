@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32997'
     url: http://www.gutenberg.org/2009/agents/32997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31529#Modern-marriage-and-how-to-bear-it
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
