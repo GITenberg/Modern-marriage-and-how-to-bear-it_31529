@@ -1,0 +1,26 @@
+_repo: Modern-marriage-and-how-to-bear-it_31529
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31529-h/images/coverpic.png
+creator:
+  author:
+    agent_name: Braby, Maud Churton
+    alias: Churton Braby, Maud
+    gutenberg_agent_id: '32997'
+    url: http://www.gutenberg.org/2009/agents/32997
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+title: Modern marriage and how to bear it
+url: http://www.gutenberg.org/ebooks/31529
